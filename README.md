@@ -31,4 +31,50 @@ export default {
   
 ## Sign In Page
 
-![WhatsApp Image 2024-01-19 at 14 33 04_de09cc43](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/6b9859ba-efc2-423d-9b7c-3f664c5e443c)
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/dd0bbd7f-b852-41fb-9e58-c0f9c2bdaea4)
+
+## Sign Up Page
+
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/ac4e2a65-be5a-4c1b-827c-31a75f5999ce)
+
+
+## Home Page
+
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/db25441f-21f8-4009-a30e-b872b5f99da6)
+
+## Explore Page
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/51ea81c0-58b1-4ab3-a507-71f7979b4360)
+
+## Top Creators Page
+
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/d863ea5b-e5b1-4625-a0f3-cf5852b1f84f)
+
+## Saved Post Page
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/65fcae4f-3b3c-4557-b558-e98547405214)
+
+## Create Post Page
+
+![create post page](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/b46ae332-d92c-4f75-af2e-2ffd905b26d0)
+
+## profile Page
+
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/812256f2-2d64-4d5e-b778-c7d25e4b7f18
+
+## Edit Profile Page
+
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/3f76aab9-8284-4d55-b956-4b38044fcec4)
+
+## Post Details Page
+
+![image](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/57734538-41da-4a30-97ec-50798be68eeb
+
+## Edit Post Page
+
+![Edit Post Page](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/90a63962-5924-48f7-af90-91bb38f44f58)
+
+
+
+
+
+
+
