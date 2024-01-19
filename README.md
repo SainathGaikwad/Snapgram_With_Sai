@@ -28,3 +28,7 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+  
+## Sign In Page
+
+![WhatsApp Image 2024-01-19 at 14 33 04_de09cc43](https://github.com/SainathGaikwad/Snapgram_With_Sai/assets/89898283/6b9859ba-efc2-423d-9b7c-3f664c5e443c)
